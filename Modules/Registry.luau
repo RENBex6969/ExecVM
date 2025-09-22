@@ -1,0 +1,4 @@
+return {
+  CachedInstances = {},
+  Clonerefs = {}
+}

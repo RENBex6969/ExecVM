@@ -1,0 +1,6 @@
+{
+  "aliases": {
+    "Modules": "./Modules",
+    "Src": "./Src"
+  }
+}
