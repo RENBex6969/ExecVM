@@ -11,3 +11,7 @@ A next-generation *successor* to the [Virtual Machine](https://github.com/RENBex
 > *This project is currently in active development and is not recommended for use in production environments.*
 
 *pre-alpha-0.1*
+
+## Contributers
+
+* *lishbon* - Bat
