@@ -12,6 +12,13 @@ A next-generation *successor* to the [Virtual Machine](https://github.com/RENBex
 
 *pre-alpha-0.1*
 
+## UNC Scores
+
+| Unified Naming Convention's | Score |
+|-----------|-------|
+| UNC       | **96%** |
+| sUNC      | **90%** |
+
 ## Contributers
 
 * *lishbon* - Bat
